@@ -6,5 +6,5 @@ Andrew Ng's course about DeepLearning (by deeplearning.ai) in Coursera
 
 - Neural Networks and Deep Neural Networks Introduction
 - Improving Deep Networks with Hyperparameters
-- Convolutional Networks (CNN)
-- 
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
